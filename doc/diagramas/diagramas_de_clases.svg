@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="39 99 426.68658 557.0166"
+   version="1.1"
+   id="svg743"
+   sodipodi:docname="diagramas_de_clases.svg"
+   inkscape:version="1.2 (1:1.2+202206011326+fc4e4096c5)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs747" />
+  <sodipodi:namedview
+     id="namedview745"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="1.0628369"
+     inkscape:cx="436.56746"
+     inkscape:cy="854.7878"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Fondo" />
+  <g
+     id="Fondo"
+     transform="matrix(0.27334737,0,0,0.27334737,36.439868,94.320425)">
+    <g
+       id="g24"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="40"
+         y="100"
+         width="318"
+         height="28"
+         id="rect2" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="199"
+         y="118.852"
+         id="text4">class_connect</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="40"
+         y="128"
+         width="318"
+         height="84"
+         id="rect6" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="141.881"
+         id="text8">-bd_host: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="157.881"
+         id="text10">-bd_usr: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="173.881"
+         id="text12">-bd_pass: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="189.881"
+         id="text14">-bd_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="205.881"
+         id="text16">-bd_charset: string</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="40"
+         y="212"
+         width="318"
+         height="36"
+         id="rect18" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="225.881"
+         id="text20">+connect(bd_host,bd_usr,bd_pass,bd_name,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="241.881"
+         id="text22">         bd_charset): array</text>
+    </g>
+    <g
+       id="g52"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="120"
+         y="1040"
+         width="464.29999"
+         height="28"
+         id="rect26" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="352.14999"
+         y="1058.85"
+         id="text28">class_users</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="120"
+         y="1068"
+         width="464.29999"
+         height="84"
+         id="rect30" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="123"
+         y="1081.88"
+         id="text32">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="123"
+         y="1097.88"
+         id="text34">+usr_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="123"
+         y="1113.88"
+         id="text36">+usr_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="123"
+         y="1129.88"
+         id="text38">+usr_type: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="123"
+         y="1145.88"
+         id="text40">+usr_password: string</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="120"
+         y="1152"
+         width="464.29999"
+         height="68"
+         id="rect42" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="123"
+         y="1165.88"
+         id="text44">+newUser(usr_name:string,usr_password:string,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="123"
+         y="1181.88"
+         id="text46">         usr_type:string): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="123"
+         y="1197.88"
+         id="text48">+updateUser(id_usr:int,name:string,password:string): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="123"
+         y="1213.88"
+         id="text50">+deleteUser(id_usr:int): string</text>
+    </g>
+    <g
+       id="g68"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="240"
+         y="1260"
+         width="310.29999"
+         height="28"
+         id="rect54" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="395.14999"
+         y="1278.85"
+         id="text56">class_crypt</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="240"
+         y="1288"
+         width="310.29999"
+         height="20"
+         id="rect58" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="243"
+         y="1301.88"
+         id="text60">+password: string</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="240"
+         y="1308"
+         width="310.29999"
+         height="36"
+         id="rect62" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="243"
+         y="1321.88"
+         id="text64">+newPassword(): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="243"
+         y="1337.88"
+         id="text66">+cryptPassword(password:string): string</text>
+    </g>
+    <g
+       id="g122"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1060"
+         y="1420"
+         width="448.89999"
+         height="28"
+         id="rect70" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="1284.45"
+         y="1438.85"
+         id="text72">class_gallery</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1060"
+         y="1448"
+         width="448.89999"
+         height="244"
+         id="rect74" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1461.88"
+         id="text76">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1477.88"
+         id="text78">+img_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1493.88"
+         id="text80">+img_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1509.88"
+         id="text82">+img_type: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1525.88"
+         id="text84">+img_size: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1541.88"
+         id="text86">+img_width: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1557.88"
+         id="text88">+img_height: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1573.88"
+         id="text90">+img_hash: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1589.88"
+         id="text92">+img_directory: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1605.88"
+         id="text94">+img_user: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1621.88"
+         id="text96">+img_date: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1637.88"
+         id="text98">+images_list_order: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1653.88"
+         id="text100">+pag: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1669.88"
+         id="text102">+num_reg: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1685.88"
+         id="text104">+tag_id: integer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1060"
+         y="1692"
+         width="448.89999"
+         height="116"
+         id="rect106" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1705.88"
+         id="text108">+newImage(img_name,img_type,img_size,img_width,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1721.88"
+         id="text110">          img_height,img_hash,img_directory,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1737.88"
+         id="text112">          img_user,img_date): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1753.88"
+         id="text114">+imagesList(connect,pag,num_reg,images_list_order): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1769.88"
+         id="text116">+imagesListByTag(connect,tag_id,images_list_order,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1785.88"
+         id="text118">                 pag,num_reg): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1801.88"
+         id="text120">+imageInfo(connect,img_id): array</text>
+    </g>
+    <g
+       id="g164"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="540"
+         y="1680"
+         width="371.89999"
+         height="28"
+         id="rect124" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="725.95001"
+         y="1698.85"
+         id="text126">class_gallery_tags</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="540"
+         y="1708"
+         width="371.89999"
+         height="116"
+         id="rect128" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1721.88"
+         id="text130">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1737.88"
+         id="text132">+tag_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1753.88"
+         id="text134">+tag_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1769.88"
+         id="text136">+tag_category: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1785.88"
+         id="text138">+images_count: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1801.88"
+         id="text140">+page: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1817.88"
+         id="text142">+registers_number: integer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="540"
+         y="1824"
+         width="371.89999"
+         height="148"
+         id="rect144" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1837.88"
+         id="text146">+newTag(connect,tag_name,tag_category): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1853.88"
+         id="text148">+editTag(connect,tag_id,tag_name,tag_category,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1869.88"
+         id="text150">         images_count): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1885.88"
+         id="text152">+deleteTag(connect,tag_id,tag_category): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1901.88"
+         id="text154">+tagListComplete(connect,pag,num_reg): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1917.88"
+         id="text156">+tagListByCategory(connect,category_id,pag,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1933.88"
+         id="text158">                   num_reg): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1949.88"
+         id="text160">+tagInfo(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="543"
+         y="1965.88"
+         id="text162">-countImages(connect,tag_id): integer</text>
+    </g>
+    <g
+       id="g204"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="40"
+         y="1360"
+         width="456.60001"
+         height="28"
+         id="rect166" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="268.29999"
+         y="1378.85"
+         id="text168">class_gallery_categories</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="40"
+         y="1388"
+         width="456.60001"
+         height="116"
+         id="rect170" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1401.88"
+         id="text172">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1417.88"
+         id="text174">+category_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1433.88"
+         id="text176">+category_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1449.88"
+         id="text178">+category_color: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1465.88"
+         id="text180">+category_count: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1481.88"
+         id="text182">+pag: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1497.88"
+         id="text184">+num_reg: integer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="40"
+         y="1504"
+         width="456.60001"
+         height="132"
+         id="rect186" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1517.88"
+         id="text188">+newCategory(connect,category_name,category_color): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1533.88"
+         id="text190">+editCategory(connect,category_name,category_color,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1549.88"
+         id="text192">              category_count): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1565.88"
+         id="text194">+deleteCategory(connect,category_id): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1581.88"
+         id="text196">+categoryList(connect,pag,num_reg): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1597.88"
+         id="text198">+categoryInfo(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1613.88"
+         id="text200">-countImages(connect,category_id): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1629.88"
+         id="text202">-countTags(connect,category_id): integer</text>
+    </g>
+    <g
+       id="g222"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="580"
+         y="1400"
+         width="402.70001"
+         height="28"
+         id="rect206" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="781.34998"
+         y="1418.85"
+         id="text208">class_apply_category_to_image</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="580"
+         y="1428"
+         width="402.70001"
+         height="52"
+         id="rect210" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="583"
+         y="1441.88"
+         id="text212">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="583"
+         y="1457.88"
+         id="text214">+img_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="583"
+         y="1473.88"
+         id="text216">+category_id: integer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="580"
+         y="1480"
+         width="402.70001"
+         height="20"
+         id="rect218" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="583"
+         y="1493.88"
+         id="text220">+relImageCategory(connect,img_id,category_id): null</text>
+    </g>
+    <g
+       id="g284"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="440"
+         y="360"
+         width="479.70001"
+         height="28"
+         id="rect224" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="679.84998"
+         y="378.85199"
+         id="text226">class_blog</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="440"
+         y="388"
+         width="479.70001"
+         height="228"
+         id="rect228" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="401.88101"
+         id="text230">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="417.88101"
+         id="text232">+post_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="433.88101"
+         id="text234">+post_title: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="449.88101"
+         id="text236">+post_permalink: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="465.88101"
+         id="text238">+post_date: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="481.88101"
+         id="text240">+post_author: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="497.88101"
+         id="text242">+post_text: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="513.88098"
+         id="text244">+post_views: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="529.88098"
+         id="text246">+post_comments: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="545.88098"
+         id="text248">+post_status: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="561.88098"
+         id="text250">+post_category: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="577.88098"
+         id="text252">+post_tag: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="593.88098"
+         id="text254">+page: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="609.88098"
+         id="text256">+registers_by_page: integer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="440"
+         y="616"
+         width="479.70001"
+         height="196"
+         id="rect258" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="629.88098"
+         id="text260">+newPost(connect,post_title,post_permalink,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="645.88098"
+         id="text262">         post_date,post_author,post_text,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="661.88098"
+         id="text264">         post_status,post_tags,post_categories): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="677.88098"
+         id="text266">+postEdit(connect,post_title,post_permalink,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="693.88098"
+         id="text268">          post_edited,post_author,post_text,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="709.88098"
+         id="text270">          post_status,post_tags,post_categories): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="725.88098"
+         id="text272">+postDelete(connect,post_id): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="741.88098"
+         id="text274">+postsListComplete(connect,page,registers_by_page): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="757.88098"
+         id="text276">+postsListByCategory(connect,category_id,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="773.88098"
+         id="text278">                     page,registers_by_page): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="789.88098"
+         id="text280">+postsListByTag(connect,tag_id,page,registers_by_page): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="805.88098"
+         id="text282">+postInfo(connect,post_id): array</text>
+    </g>
+    <g
+       id="g302"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="660"
+         y="1200"
+         width="364.20001"
+         height="28"
+         id="rect286" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="842.09998"
+         y="1218.85"
+         id="text288">class_login</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="660"
+         y="1228"
+         width="364.20001"
+         height="52"
+         id="rect290" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="663"
+         y="1241.88"
+         id="text292">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="663"
+         y="1257.88"
+         id="text294">+user_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="663"
+         y="1273.88"
+         id="text296">+user_password: string</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="660"
+         y="1280"
+         width="364.20001"
+         height="20"
+         id="rect298" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="663"
+         y="1293.88"
+         id="text300">+logIn(connect,user_name,user_password): array</text>
+    </g>
+    <g
+       id="g322"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="660"
+         y="1060"
+         width="371.89999"
+         height="28"
+         id="rect304" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="845.95001"
+         y="1078.85"
+         id="text306">class_sign_up</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="660"
+         y="1088"
+         width="371.89999"
+         height="68"
+         id="rect308" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="663"
+         y="1101.88"
+         id="text310">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="663"
+         y="1117.88"
+         id="text312">+user_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="663"
+         y="1133.88"
+         id="text314">+user_password: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="663"
+         y="1149.88"
+         id="text316">+user_password_2: string</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="660"
+         y="1156"
+         width="371.89999"
+         height="20"
+         id="rect318" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="663"
+         y="1169.88"
+         id="text320">+signUp(connect,user_name,user_password): array</text>
+    </g>
+    <g
+       id="g340"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="600"
+         y="1520"
+         width="364.20001"
+         height="28"
+         id="rect324" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="782.09998"
+         y="1538.85"
+         id="text326">class_apply_tag_to_image</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="600"
+         y="1548"
+         width="364.20001"
+         height="52"
+         id="rect328" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="603"
+         y="1561.88"
+         id="text330">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="603"
+         y="1577.88"
+         id="text332">+image_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="603"
+         y="1593.88"
+         id="text334">+tag_id: array</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="600"
+         y="1600"
+         width="364.20001"
+         height="20"
+         id="rect336" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="603"
+         y="1613.88"
+         id="text338">+applyTagToImage(connect,img_id,tag_id): array</text>
+    </g>
+    <g
+       id="g350"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="395.15,1260 395.15,1240 352.15,1240 352.15,1220 "
+         id="polyline342" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="373.64999"
+         y="1236.98"
+         id="text344" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="399.14999"
+         y="1255.88"
+         id="text346">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="356.14999"
+         y="1231.88"
+         id="text348">*</text>
+    </g>
+    <g
+       id="g360"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="550.3,1298 600,1298 600,1130 660,1130 "
+         id="polyline352" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="602"
+         y="1210.98"
+         id="text354" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="554.29999"
+         y="1294.98"
+         id="text356">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="656"
+         y="1126.98"
+         id="text358">*</text>
+    </g>
+    <g
+       id="g396"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1000"
+         y="100"
+         width="487.39999"
+         height="28"
+         id="rect362" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="1243.7"
+         y="118.852"
+         id="text364">class_blog_post_categories</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1000"
+         y="128"
+         width="487.39999"
+         height="116"
+         id="rect366" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="141.881"
+         id="text368">+connect: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="157.881"
+         id="text370">+category_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="173.881"
+         id="text372">+category_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="189.881"
+         id="text374">+category_permalink: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="205.881"
+         id="text376">+category_posts: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="221.881"
+         id="text378">+page: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="237.881"
+         id="text380">+registers_number: integer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1000"
+         y="244"
+         width="487.39999"
+         height="100"
+         id="rect382" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="257.88101"
+         id="text384">+newCategory(connect,category_name,category_permalink): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="273.88101"
+         id="text386">+editCategory(connect,category_id,category_name,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="289.88101"
+         id="text388">              category_permalink,category_posts): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="305.88101"
+         id="text390">+deleteCategory(connect,category_id): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="321.88101"
+         id="text392">+categoriesList(connect,page,registers_number): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="337.88101"
+         id="text394">+categoryInfo(connect,category_id): array</text>
+    </g>
+    <g
+       id="g432"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1000"
+         y="400"
+         width="379.60001"
+         height="28"
+         id="rect398" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="1189.8"
+         y="418.85199"
+         id="text400">class_blog_post_tags</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1000"
+         y="428"
+         width="379.60001"
+         height="116"
+         id="rect402" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="441.88101"
+         id="text404">+connect: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="457.88101"
+         id="text406">+tag_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="473.88101"
+         id="text408">+tag_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="489.88101"
+         id="text410">+tag_permalink: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="505.88101"
+         id="text412">+tag_posts: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="521.88098"
+         id="text414">+page: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="537.88098"
+         id="text416">+registers_by_page: integer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1000"
+         y="544"
+         width="379.60001"
+         height="100"
+         id="rect418" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="557.88098"
+         id="text420">+newTag(connect,tag_name,tag_permalink): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="573.88098"
+         id="text422">+editTag(connect,tag_id,tag_name,tag_permalink,</text>
+      <text
+         xml:space="preserve"
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="589.88098"
+         id="text424">         tag_posts): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="605.88098"
+         id="text426">+deleteTag(connect,tag_id): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="621.88098"
+         id="text428">+tagsList(connect,page,registers_by_page): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="637.88098"
+         id="text430">+tagInfo(connect,tag_id): array</text>
+    </g>
+    <g
+       id="g452"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1000"
+         y="700"
+         width="379.60001"
+         height="28"
+         id="rect434" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="1189.8"
+         y="718.85199"
+         id="text436">class_apply_blog_tag_to_post</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1000"
+         y="728"
+         width="379.60001"
+         height="52"
+         id="rect438" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="741.88098"
+         id="text440">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="757.88098"
+         id="text442">+post_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="773.88098"
+         id="text444">+tag_id: integer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1000"
+         y="780"
+         width="379.60001"
+         height="36"
+         id="rect446" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="793.88098"
+         id="text448">+applyTagsToPost(connect,post_id,tag_id): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1003"
+         y="809.88098"
+         id="text450">+countTagsFromPost(connect,post_id): integer</text>
+    </g>
+    <g
+       id="g472"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="440"
+         y="100"
+         width="464.29999"
+         height="28"
+         id="rect454" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="672.15002"
+         y="118.852"
+         id="text456">class_apply_blog_category_to_post</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="440"
+         y="128"
+         width="464.29999"
+         height="52"
+         id="rect458" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="141.881"
+         id="text460">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="157.881"
+         id="text462">+post_id: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="173.881"
+         id="text464">+category_id: integer</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="440"
+         y="180"
+         width="464.29999"
+         height="36"
+         id="rect466" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="193.881"
+         id="text468">+applyCategoriesToPost(connect,post_id,category_id): string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="443"
+         y="209.881"
+         id="text470">+countCategoriesFromPost(connect,post_id): integer</text>
+    </g>
+    <g
+       id="g482"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="1000,770 959.85,770 959.85,786 919.7,786 "
+         id="polyline474" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="961.84998"
+         y="774.98102"
+         id="text476" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="996"
+         y="766.98102"
+         id="text478">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="923.70001"
+         y="782.98102"
+         id="text480">1</text>
+    </g>
+    <g
+       id="g492"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="672.15,216 672.15,288 679.85,288 679.85,360 "
+         id="polyline484" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="676"
+         y="284.98099"
+         id="text486" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="676.15002"
+         y="227.881"
+         id="text488">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="683.84998"
+         y="355.88101"
+         id="text490">1</text>
+    </g>
+    <g
+       id="g504"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="1189.8,645.008 1189.8,672.504 1189.8,672.504 1189.8,700 "
+         id="polyline494" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1191.8"
+         y="669.48499"
+         id="text496" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         fill-rule="evenodd"
+         points="1193.8,669.485 1193.8,661.485 1201.8,665.485 "
+         id="polygon498" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1193.8"
+         y="656.88898"
+         id="text500">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1193.8"
+         y="695.88098"
+         id="text502">*</text>
+    </g>
+    <g
+       id="g516"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="1000,334 952.15,334 952.15,190 904.3,190 "
+         id="polyline506" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="954.15002"
+         y="258.98099"
+         id="text508" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         fill-rule="evenodd"
+         points="950.15,258.981 950.15,250.981 942.15,254.981 "
+         id="polygon510" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="996"
+         y="330.98099"
+         id="text512">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="908.29999"
+         y="186.981"
+         id="text514">*</text>
+    </g>
+    <g
+       id="g528"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="579.01,1450 548.3,1450 548.3,1446 496.6,1446 "
+         id="polyline518" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="550.29999"
+         y="1444.98"
+         id="text520" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         fill-rule="evenodd"
+         points="552.3,1444.98 552.3,1436.98 560.3,1440.98 "
+         id="polygon522" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="575.01001"
+         y="1446.98"
+         id="text524">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="500.60001"
+         y="1442.98"
+         id="text526">*</text>
+    </g>
+    <g
+       id="g540"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="1060,1634 1020,1634 1020,1450 983.672,1450 "
+         id="polyline530" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1022"
+         y="1538.98"
+         id="text532" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         fill-rule="evenodd"
+         points="1018,1538.98 1018,1530.98 1010,1534.98 "
+         id="polygon534" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="1056"
+         y="1630.98"
+         id="text536">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="987.672"
+         y="1446.98"
+         id="text538">*</text>
+    </g>
+    <g
+       id="g552"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="1060,1666 1000,1666 1000,1570 965.155,1570 "
+         id="polyline542" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1002"
+         y="1614.98"
+         id="text544" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         fill-rule="evenodd"
+         points="998,1614.98 998,1606.98 990,1610.98 "
+         id="polygon546" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="1056"
+         y="1662.98"
+         id="text548">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="969.15503"
+         y="1566.98"
+         id="text550">*</text>
+    </g>
+    <g
+       id="g650"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="40"
+         y="280"
+         width="371.89999"
+         height="28"
+         id="rect554" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="225.95"
+         y="298.85199"
+         id="text556">class_site_statistics</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="40"
+         y="308"
+         width="371.89999"
+         height="20"
+         id="rect558" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="321.88101"
+         id="text560">+connect: array</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="40"
+         y="328"
+         width="371.89999"
+         height="692"
+         id="rect562" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="341.88101"
+         id="text564">+countVisitsAll(connect): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="357.88101"
+         id="text566">+countVisitsByDay(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="373.88101"
+         id="text568">+countVisitsByMonth(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="389.88101"
+         id="text570">+countvisitsByYear(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="405.88101"
+         id="text572">+countGalleryImagesAll(connect): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="421.88101"
+         id="text574">+countGalleryImagesByType(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="437.88101"
+         id="text576">+countGalleryImagesByTag(connect): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="453.88101"
+         id="text578">+countGalleryImagesByCategory(connect): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="469.88101"
+         id="text580">+countGalleryImagesByDay(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="485.88101"
+         id="text582">+countGalleryImagesByMonth(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="501.88101"
+         id="text584">+countGalleryImagesByYear(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="517.88098"
+         id="text586">+countBlogPosts(connect): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="533.88098"
+         id="text588">+countBlogPostsByTag(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="549.88098"
+         id="text590">+countBlogPostsByCategories(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="565.88098"
+         id="text592">+countBlogPostsByDay(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="581.88098"
+         id="text594">+countBlogPostsByMonth(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="597.88098"
+         id="text596">+countBlogPostsByYear(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="613.88098"
+         id="text598">+countGalleryComments(connect): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="629.88098"
+         id="text600">+countGalleryCommentsByImage(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="645.88098"
+         id="text602">+countGalleryCommentsByDay(): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="661.88098"
+         id="text604">+countGalleryCommentsByMoth(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="677.88098"
+         id="text606">+countGalleryCommentsByYear(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="693.88098"
+         id="text608">+countBlogComments(connect): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="709.88098"
+         id="text610">+countBlogCommentsByPost(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="725.88098"
+         id="text612">+countBlogCommentsByDay(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="741.88098"
+         id="text614">+countBlogCommentsByMoth(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="757.88098"
+         id="text616">+countBlogCommentsByYear(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="773.88098"
+         id="text618">+countUsers(connect): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="789.88098"
+         id="text620">+countUsersByType(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="805.88098"
+         id="text622">-imagesTypes(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="821.88098"
+         id="text624">+countUsersByImages(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="837.88098"
+         id="text626">+countUsersByDate(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="853.88098"
+         id="text628">+countUsersByVisits(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="869.88098"
+         id="text630">-daysList(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="885.88098"
+         id="text632">-monthsList(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="901.88098"
+         id="text634">-yearsList(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="917.88098"
+         id="text636">-galleryTagList(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="933.88098"
+         id="text638">-galleryCategoryList(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="949.88098"
+         id="text640">-blogTagList(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="965.88098"
+         id="text642">-blogCategoryList(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="981.88098"
+         id="text644">-usersSignUpDate(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="997.88098"
+         id="text646">-usersImagesCount(connect): array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="43"
+         y="1013.88"
+         id="text648">-usersVisits(connect): array</text>
+    </g>
+    <g
+       id="g694"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1060"
+         y="1060"
+         width="479.70001"
+         height="28"
+         id="rect652" />
+      <text
+         font-size="16px"
+         style="font-style:normal;font-weight:700;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="1299.85"
+         y="1078.85"
+         id="text654">class_pagination</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1060"
+         y="1088"
+         width="479.70001"
+         height="164"
+         id="rect656" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1101.88"
+         id="text658">+connect: array</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1117.88"
+         id="text660">+page: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1133.88"
+         id="text662">+pages_number: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1149.88"
+         id="text664">+extra: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1165.88"
+         id="text666">+total_registers: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1181.88"
+         id="text668">+registers_by_page: integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1197.88"
+         id="text670">+table: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1213.88"
+         id="text672">+tag_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1229.88"
+         id="text674">+category_name: string</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1245.88"
+         id="text676">+search_term: string</text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="1060"
+         y="1252"
+         width="479.70001"
+         height="116"
+         id="rect678" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1265.88"
+         id="text680">+pages(page,pages_number,extra): null</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1281.88"
+         id="text682">+pages_number(total_registers,registers_by_page): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1297.88"
+         id="text684">+totalRegisters(connect,table): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1313.88"
+         id="text686">+totalRegistersGalleryByTag(connect,tag_name): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1329.88"
+         id="text688">+totalRegistersBlogByTag(connect,tag_name): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1345.88"
+         id="text690">+totalRegistersBlogByCategory(connect,category_name): integer</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1063"
+         y="1361.88"
+         id="text692">+totalRegistersBlogBySearch(connect,search_term): integer</text>
+    </g>
+    <g
+       id="g704"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="679.85,812 679.85,1000 1299.85,1000 1299.85,1060 "
+         id="polyline696" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="989.84998"
+         y="996.98102"
+         id="text698" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="683.84998"
+         y="823.88098"
+         id="text700">1</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1303.85"
+         y="1055.88"
+         id="text702">*</text>
+    </g>
+    <g
+       id="g714"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="1299.85,1368 1299.85,1394 1284.45,1394 1284.45,1420 "
+         id="polyline706" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="1292.15"
+         y="1390.98"
+         id="text708" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1303.85"
+         y="1379.88"
+         id="text710">*</text>
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="1288.45"
+         y="1415.88"
+         id="text712">*</text>
+    </g>
+    <g
+       id="g724"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="268.3,1636 268.3,1814 540,1814 "
+         id="polyline716" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         fill-rule="evenodd"
+         points="406.15,1814 406.15,1806 414.15,1810 "
+         id="polygon718" />
+      <text
+         font-size="12.7998px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="272.29999"
+         y="1647.88"
+         id="text720">1</text>
+      <text
+         font-size="12.7998px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="536"
+         y="1810.98"
+         id="text722">*</text>
+    </g>
+    <g
+       id="g732"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="782.1,1620 782.1,1660 725.95,1660 725.95,1680 "
+         id="polyline726" />
+      <text
+         font-size="12.7998px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="786.09998"
+         y="1631.88"
+         id="text728">*</text>
+      <text
+         font-size="12.7998px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="729.95001"
+         y="1675.88"
+         id="text730">*</text>
+    </g>
+    <g
+       id="g740"
+       transform="matrix(0.95143273,0,0,0.95143273,38.360858,-4.1388598)">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="550.3,1334 640,1334 640,1290 660,1290 "
+         id="polyline734" />
+      <text
+         font-size="12.7998px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="554.29999"
+         y="1330.98"
+         id="text736">1</text>
+      <text
+         font-size="12.7998px"
+         style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         x="656"
+         y="1286.98"
+         id="text738">1</text>
+    </g>
+  </g>
+</svg>

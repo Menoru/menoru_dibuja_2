@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="21.59cm"
+   height="27.940001cm"
+   viewBox="289 10 426.72 554.67772"
+   version="1.1"
+   id="svg167"
+   sodipodi:docname="countVisitsByDay.svg"
+   inkscape:version="1.2 (1:1.2+202206011326+fc4e4096c5)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs171" />
+  <sodipodi:namedview
+     id="namedview169"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="288"
+     inkscape:cy="489.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg167" />
+  <g
+     id="Fondo"
+     transform="matrix(0.42628328,0,0,0.42628328,307.23821,25.006898)">
+    <g
+       id="g8">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 421.704,12.367 h 46.051 c 6.358,0 11.512,4.9248 11.512,11 0,6.0751 -5.154,11 -11.512,11 h -46.051 c -6.358,0 -11.512,-4.9249 -11.512,-11 0,-6.0752 5.154,-11 11.512,-11 z"
+         id="path2" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="27.248199"
+         id="text6"><tspan
+           x="444.729"
+           y="27.248199"
+           id="tspan4">INICIO</tspan></text>
+    </g>
+    <g
+       id="g16">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 431.356,1196.42 h 26.75 c 3.693,0 6.687,4.92 6.687,11 0,6.07 -2.994,11 -6.687,11 h -26.75 c -3.694,0 -6.688,-4.93 -6.688,-11 0,-6.08 2.994,-11 6.688,-11 z"
+         id="path10" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.73099"
+         y="1211.3"
+         id="text14"><tspan
+           x="444.73099"
+           y="1211.3"
+           id="tspan12">FIN</tspan></text>
+    </g>
+    <g
+       id="g24">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="491.446,99.5086 476.888,139.509 398.014,139.509 412.573,99.5086 "
+         id="polygon18" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.73001"
+         y="123.39"
+         id="text22"><tspan
+           x="444.73001"
+           y="123.39"
+           id="tspan20">connect</tspan></text>
+    </g>
+    <g
+       id="g30">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.73001"
+         y1="34.367001"
+         x2="444.73001"
+         y2="88.767799"
+         id="line26" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="439.73,86.2678 444.73,88.7678 449.73,86.2677 444.73,96.2678 "
+         id="polygon28" />
+    </g>
+    <g
+       id="g48">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 370.304,739.245 c 29.77,-21.5 44.655,-28.667 74.425,-28.667 29.77,0 44.655,7.167 74.425,28.667 v 114.666 c -29.77,21.5 -44.655,28.667 -74.425,28.667 -29.77,0 -44.655,-7.167 -74.425,-28.667 z"
+         id="path32" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         d="m 370.304,739.245 c 29.77,21.5 44.655,28.666 74.425,28.666 29.77,0 44.655,-7.166 74.425,-28.666"
+         id="path34" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="782.79303"
+         id="text46"><tspan
+           x="444.729"
+           y="782.79303"
+           id="tspan36">Contar todas las</tspan><tspan
+           x="444.729"
+           y="798.79303"
+           id="tspan38">visitas en la</tspan><tspan
+           x="444.729"
+           y="814.79303"
+           id="tspan40">tabla &quot;visits&quot;</tspan><tspan
+           x="444.729"
+           y="830.79303"
+           id="tspan42">donde el día sea</tspan><tspan
+           x="444.729"
+           y="846.79303"
+           id="tspan44">igual a days_list[date]</tspan></text>
+    </g>
+    <g
+       id="g56">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="561.106,947.72 547.276,985.72 328.352,985.72 342.183,947.72 "
+         id="polygon50" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="970.60101"
+         id="text54"><tspan
+           x="444.729"
+           y="970.60101"
+           id="tspan52">visits_by_day[i]</tspan></text>
+    </g>
+    <g
+       id="g66">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 382.604,204.65 h 124.25 v 38 l -62.125,9.5 -62.125,-9.5 z"
+         id="path58" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="219.53101"
+         id="text64"><tspan
+           x="444.729"
+           y="219.53101"
+           id="tspan60">Se obtiene lista</tspan><tspan
+           x="444.729"
+           y="235.53101"
+           id="tspan62">de días con visitas</tspan></text>
+    </g>
+    <g
+       id="g74">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="512.706,317.316 498.876,355.316 376.752,355.316 390.583,317.316 "
+         id="polygon68" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="340.19699"
+         id="text72"><tspan
+           x="444.729"
+           y="340.19699"
+           id="tspan70">days_list[date]</tspan></text>
+    </g>
+    <g
+       id="g80">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.73001"
+         y1="140.48399"
+         x2="444.729"
+         y2="193.927"
+         id="line76" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="439.729,191.427 444.729,193.927 449.729,191.427 444.729,201.427 "
+         id="polygon78" />
+    </g>
+    <g
+       id="g92">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="568.568,583.517 444.73,645.436 320.892,583.517 444.73,521.598 "
+         id="polygon82" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.73001"
+         y="571.39801"
+         id="text90"><tspan
+           x="444.73001"
+           y="571.39801"
+           id="tspan84">¿Hay elementos</tspan><tspan
+           x="444.73001"
+           y="587.39801"
+           id="tspan86">en</tspan><tspan
+           x="444.73001"
+           y="603.39801"
+           id="tspan88">days_list[date]?</tspan></text>
+    </g>
+    <g
+       id="g98">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.73001"
+         y1="646.43597"
+         x2="444.73001"
+         y2="700.82397"
+         id="line94" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="439.73,698.324 444.73,700.824 449.73,698.324 444.729,708.324 "
+         id="polygon96" />
+    </g>
+    <g
+       id="g104">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.729"
+         y1="882.573"
+         x2="444.729"
+         y2="936.99298"
+         id="line100" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="439.729,934.493 444.729,936.993 449.729,934.493 444.729,944.493 "
+         id="polygon102" />
+    </g>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="454.73001"
+       y="682.92902"
+       id="text108"><tspan
+         x="454.73001"
+         y="682.92902"
+         id="tspan106">SI</tspan></text>
+    <g
+       id="g114">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="413.08,1068.86 290.728,1068.86 290.728,779.102 290.728,779.102 290.728,489.524 434.994,489.524 "
+         id="polyline110" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="432.494,494.524 434.994,489.524 432.494,484.524 442.494,489.524 "
+         id="polygon112" />
+    </g>
+    <g
+       id="g120">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="568.568,583.518 624.728,583.518 624.728,1115.86 444.73,1115.86 444.73,1186.68 "
+         id="polyline116" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="439.73,1184.18 444.73,1186.68 449.73,1184.18 444.73,1194.18 "
+         id="polygon118" />
+    </g>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="596.64801"
+       y="570.49902"
+       id="text124"><tspan
+         x="596.64801"
+         y="570.49902"
+         id="tspan122">NO</tspan></text>
+    <g
+       id="g132">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="418.45599"
+         y="419.45801"
+         width="52.549999"
+         height="38"
+         rx="0"
+         ry="0"
+         id="rect126" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.73099"
+         y="442.33899"
+         id="text130"><tspan
+           x="444.73099"
+           y="442.33899"
+           id="tspan128">i = 0</tspan></text>
+    </g>
+    <g
+       id="g140">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="413.07999"
+         y="1049.86"
+         width="63.299999"
+         height="38"
+         rx="0"
+         ry="0"
+         id="rect134" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.73001"
+         y="1072.74"
+         id="text138"><tspan
+           x="444.73001"
+           y="1072.74"
+           id="tspan136">i += 1</tspan></text>
+    </g>
+    <g
+       id="g146">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.729"
+         y1="986.72601"
+         x2="444.73001"
+         y2="1039.12"
+         id="line142" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="439.73,1036.62 444.73,1039.12 449.73,1036.62 444.73,1046.62 "
+         id="polygon144" />
+    </g>
+    <g
+       id="g152">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.729"
+         y1="252.138"
+         x2="444.729"
+         y2="306.57599"
+         id="line148" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="439.729,304.076 444.729,306.576 449.729,304.076 444.729,314.076 "
+         id="polygon150" />
+    </g>
+    <g
+       id="g158">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.73001"
+         y1="356.32199"
+         x2="444.73001"
+         y2="408.716"
+         id="line154" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="439.73,406.216 444.73,408.716 449.73,406.216 444.731,416.216 "
+         id="polygon156" />
+    </g>
+    <g
+       id="g164">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.73099"
+         y1="458.45001"
+         x2="444.73099"
+         y2="510.862"
+         id="line160" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="439.731,508.362 444.731,510.862 449.731,508.362 444.731,518.362 "
+         id="polygon162" />
+    </g>
+  </g>
+</svg>

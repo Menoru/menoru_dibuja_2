@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="21.59cm"
+   height="27.940001cm"
+   viewBox="289 10 426.72 554.67772"
+   version="1.1"
+   id="svg2060"
+   sodipodi:docname="countVisitsByMonth.svg"
+   inkscape:version="1.2 (1:1.2+202206011326+fc4e4096c5)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2064" />
+  <sodipodi:namedview
+     id="namedview2062"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="0.10236339"
+     inkscape:cx="322.38089"
+     inkscape:cy="1157.6405"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2060" />
+  <g
+     id="Fondo"
+     transform="matrix(0.42628328,0,0,0.42628328,307.23821,25.006898)">
+    <g
+       id="g1901">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 421.704,12.367 h 46.051 c 6.358,0 11.512,4.9248 11.512,11 0,6.0751 -5.154,11 -11.512,11 h -46.051 c -6.358,0 -11.512,-4.9249 -11.512,-11 0,-6.0752 5.154,-11 11.512,-11 z"
+         id="path1895" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="27.248199"
+         id="text1899"><tspan
+           x="444.729"
+           y="27.248199"
+           id="tspan1897">INICIO</tspan></text>
+    </g>
+    <g
+       id="g1909">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 431.356,1196.42 h 26.75 c 3.693,0 6.687,4.92 6.687,11 0,6.07 -2.994,11 -6.687,11 h -26.75 c -3.694,0 -6.688,-4.93 -6.688,-11 0,-6.08 2.994,-11 6.688,-11 z"
+         id="path1903" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.73099"
+         y="1211.3"
+         id="text1907"><tspan
+           x="444.73099"
+           y="1211.3"
+           id="tspan1905">FIN</tspan></text>
+    </g>
+    <g
+       id="g1917">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="476.888,139.509 398.014,139.509 412.573,99.5086 491.446,99.5086 "
+         id="polygon1911" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.73001"
+         y="123.39"
+         id="text1915"><tspan
+           x="444.73001"
+           y="123.39"
+           id="tspan1913">connect</tspan></text>
+    </g>
+    <g
+       id="g1923">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.73001"
+         y1="34.367001"
+         x2="444.73001"
+         y2="88.767799"
+         id="line1919" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.73,88.7678 449.73,86.2677 444.73,96.2678 439.73,86.2678 "
+         id="polygon1921" />
+    </g>
+    <g
+       id="g1941">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 355.754,739.245 c 35.59,-21.5 53.385,-28.667 88.975,-28.667 35.59,0 53.385,7.167 88.975,28.667 v 114.666 c -35.59,21.5 -53.385,28.667 -88.975,28.667 -35.59,0 -53.385,-7.167 -88.975,-28.667 z"
+         id="path1925" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         d="m 355.754,739.245 c 35.59,21.5 53.385,28.666 88.975,28.666 35.59,0 53.385,-7.166 88.975,-28.666"
+         id="path1927" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="782.79303"
+         id="text1939"><tspan
+           x="444.729"
+           y="782.79303"
+           id="tspan1929">Contar todas las</tspan><tspan
+           x="444.729"
+           y="798.79303"
+           id="tspan1931">visitas en la</tspan><tspan
+           x="444.729"
+           y="814.79303"
+           id="tspan1933">tabla &quot;visits&quot;</tspan><tspan
+           x="444.729"
+           y="830.79303"
+           id="tspan1935">donde el mes sea</tspan><tspan
+           x="444.729"
+           y="846.79303"
+           id="tspan1937">igual a months_list[month]</tspan></text>
+    </g>
+    <g
+       id="g1949">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="547.276,985.72 328.352,985.72 342.183,947.72 561.106,947.72 "
+         id="polygon1943" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="970.60101"
+         id="text1947"><tspan
+           x="444.729"
+           y="970.60101"
+           id="tspan1945">visits_by_month[i]</tspan></text>
+    </g>
+    <g
+       id="g1959">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         d="m 374.928,204.65 h 139.6 v 38 l -69.8,9.5 -69.8,-9.5 z"
+         id="path1951" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.728"
+         y="219.53101"
+         id="text1957"><tspan
+           x="444.728"
+           y="219.53101"
+           id="tspan1953">Se obtiene lista</tspan><tspan
+           x="444.728"
+           y="235.53101"
+           id="tspan1955">de meses con visitas</tspan></text>
+    </g>
+    <g
+       id="g1967">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="514.126,355.316 361.502,355.316 375.333,317.316 527.956,317.316 "
+         id="polygon1961" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="340.19699"
+         id="text1965"><tspan
+           x="444.729"
+           y="340.19699"
+           id="tspan1963">months_list[month]</tspan></text>
+    </g>
+    <g
+       id="g1973">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.73001"
+         y1="140.48399"
+         x2="444.729"
+         y2="193.927"
+         id="line1969" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.729,193.927 449.729,191.427 444.729,201.427 439.729,191.427 "
+         id="polygon1971" />
+    </g>
+    <g
+       id="g1985">
+      <polygon
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.729,655.399 300.966,583.518 444.729,511.636 588.492,583.518 "
+         id="polygon1975" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.729"
+         y="571.39899"
+         id="text1983"><tspan
+           x="444.729"
+           y="571.39899"
+           id="tspan1977">¿Hay elementos</tspan><tspan
+           x="444.729"
+           y="587.39899"
+           id="tspan1979">en</tspan><tspan
+           x="444.729"
+           y="603.39899"
+           id="tspan1981">months_list[month]?</tspan></text>
+    </g>
+    <g
+       id="g1991">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.729"
+         y1="656.39899"
+         x2="444.729"
+         y2="700.84497"
+         id="line1987" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.729,700.845 449.729,698.345 444.729,708.345 439.729,698.345 "
+         id="polygon1989" />
+    </g>
+    <g
+       id="g1997">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.729"
+         y1="882.573"
+         x2="444.729"
+         y2="936.99298"
+         id="line1993" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.729,936.993 449.729,934.493 444.729,944.493 439.729,934.493 "
+         id="polygon1995" />
+    </g>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="454.73001"
+       y="687.909"
+       id="text2001"><tspan
+         x="454.73001"
+         y="687.909"
+         id="tspan1999">SI</tspan></text>
+    <g
+       id="g2007">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="413.08,1068.86 290.728,1068.86 290.728,779.102 290.728,779.102 290.728,484.544 434.994,484.544 "
+         id="polyline2003" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="434.994,484.544 432.494,479.544 442.494,484.544 432.494,489.544 "
+         id="polygon2005" />
+    </g>
+    <g
+       id="g2013">
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         points="588.494,583.518 624.728,583.518 624.728,1115.86 444.73,1115.86 444.73,1186.68 "
+         id="polyline2009" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.73,1186.68 449.73,1184.18 444.73,1194.18 439.73,1184.18 "
+         id="polygon2011" />
+    </g>
+    <text
+       font-size="12.8px"
+       style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="606.60999"
+       y="570.49902"
+       id="text2017"><tspan
+         x="606.60999"
+         y="570.49902"
+         id="tspan2015">NO</tspan></text>
+    <g
+       id="g2025">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="418.45599"
+         y="419.45801"
+         width="52.549999"
+         height="38"
+         rx="0"
+         ry="0"
+         id="rect2019" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.73099"
+         y="442.33899"
+         id="text2023"><tspan
+           x="444.73099"
+           y="442.33899"
+           id="tspan2021">i = 0</tspan></text>
+    </g>
+    <g
+       id="g2033">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x="413.07999"
+         y="1049.86"
+         width="63.299999"
+         height="38"
+         rx="0"
+         ry="0"
+         id="rect2027" />
+      <text
+         font-size="12.8px"
+         style="font-style:normal;font-weight:normal;font-family:sans-serif;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="444.73001"
+         y="1072.74"
+         id="text2031"><tspan
+           x="444.73001"
+           y="1072.74"
+           id="tspan2029">i += 1</tspan></text>
+    </g>
+    <g
+       id="g2039">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.729"
+         y1="986.72601"
+         x2="444.73001"
+         y2="1039.12"
+         id="line2035" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.73,1039.12 449.73,1036.62 444.73,1046.62 439.73,1036.62 "
+         id="polygon2037" />
+    </g>
+    <g
+       id="g2045">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.728"
+         y1="252.138"
+         x2="444.729"
+         y2="306.57599"
+         id="line2041" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.729,306.576 449.729,304.076 444.729,314.076 439.729,304.076 "
+         id="polygon2043" />
+    </g>
+    <g
+       id="g2051">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.73001"
+         y1="356.32199"
+         x2="444.73001"
+         y2="408.716"
+         id="line2047" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.73,408.716 449.73,406.216 444.731,416.216 439.73,406.216 "
+         id="polygon2049" />
+    </g>
+    <g
+       id="g2057">
+      <line
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         x1="444.73099"
+         y1="458.45001"
+         x2="444.73001"
+         y2="500.901"
+         id="line2053" />
+      <polygon
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+         fill-rule="evenodd"
+         points="444.73,500.901 449.73,498.401 444.73,508.401 439.73,498.401 "
+         id="polygon2055" />
+    </g>
+  </g>
+</svg>
