@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Menoru dibuja</title>
-	<link rel="stylesheet" media="all" href="site/css/styles.css">
+	<link rel="stylesheet" media="all" href="/css/styles.css">
 </head>
 <body>
 	<div class="front-page-wrapper">
@@ -23,7 +23,7 @@
 				<li> <a href="/blog">Blog</a> </li>
 				<li> <a href="/users">Usuario</a> </li>
 				<li> <a href="/help">Ayuda</a> </li>
-				<li> <a href="/admin">Panel de control</a> </li>
+				<li> <a href="/admin/control_panel.php">Panel de control</a> </li>
 			</ul>
 		</nav>
 
