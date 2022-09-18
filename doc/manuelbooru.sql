@@ -10,9 +10,9 @@ SET time_zone = "+00:00";
 
 -- --------------------------------------------------------
 
-CREATE DATABASE IF NOT EXISTS `manuelbooru_2`;
+CREATE DATABASE IF NOT EXISTS `menoruco_dibuja_2`;
 
-USE `manuelbooru_2`;
+USE `menoruco_dibuja_2`;
 
 -- --------------------------------------------------------
 
