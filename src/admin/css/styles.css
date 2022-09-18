@@ -49,12 +49,12 @@ h2 {font-size: 1.5rem;}
 h3 {font-size: 1.25rem;}
 
 a {
-	color: #806491;
+	color: #BA2C73;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #B9848C;
+	color: #BA2C73;
 	text-decoration: none;
 }
 
@@ -110,11 +110,11 @@ a:hover {
 	color: #fff;
 	padding: .5em;
 	border-radius: 5px;
-	background-color: #2F70AF;
+	background-color: #BA2C73;
 }
 
 .admin-front-page ul li a:hover {
-	background-color: #806491;
+	background-color: #BA2C73;
 }
 
 .admin-front-page-section {
