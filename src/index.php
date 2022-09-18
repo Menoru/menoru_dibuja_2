@@ -1,4 +1,13 @@
 <?php
+/**
+ * Este fichero solo contiene los casos para las secciones dentro del sitio
+ * principal, las cuales utilizan el estilo de URL amigables para facilitar
+ * la navegación al usuario que visite el sitio web.
+ * 
+ * El panel de control se rige mediante enlaces a los ficheros PHP
+ * correspondientes, y utiliza URL no amigables para su navegación.
+*/
+
 // require 'connect.php';
 
 session_start();
@@ -28,7 +37,7 @@ if (isset($url_array[5])) { $parametro_6 = $url_array[5]; }
 else { $parametro_6 = null; }
 
 /* URI DE LA SECCIÓN. */
-echo $section = $_SERVER['REQUEST_URI'];
+$section = $_SERVER['REQUEST_URI'];
 // Sección en la que se encuentra el usuario actualmente.
 $_SESSION['section'] = $section;
 // Se establece tipo de usuario en caso de ser anónimo.
