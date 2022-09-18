@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Menoru dibuja</title>
+	<link rel="stylesheet" href="/css/fontawesome.css">
 	<link rel="stylesheet" media="all" href="/css/styles.css">
 </head>
 <body>
@@ -31,7 +32,7 @@
 		<main class="front-page-main" id="main">
 			<form class="forms" action="index.html" method="post">
 				<input type="text" name="" value="">
-				<button type="submit" name="button">Buscar</button>
+				<button type="submit" name="button"><span class="fas fa-search"></span> Buscar</button>
 			</form>
 			<p>Actualmente hay:</p>
 			<p>0 imágenes en la galería.</p>
