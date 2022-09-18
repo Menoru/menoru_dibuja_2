@@ -40,6 +40,7 @@
 	<section>
 		<h3>Configuración</h3>
 		<ul>
+			<li><a href="/admin/config.php">Configuración</a></li>
 			<li><a href="/admin/users.php">Usuarios</a></li>
 			<li><a href="/admin/backups.php">Respaldos</a></li>
 			<li><a href="/admin/help.php">Ayuda</a></li>
