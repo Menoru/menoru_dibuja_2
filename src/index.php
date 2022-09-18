@@ -8,7 +8,7 @@
  * correspondientes, y utiliza URL no amigables para su navegación.
 */
 
-// require 'connect.php';
+require 'connect.php';
 
 session_start();
 
@@ -47,6 +47,14 @@ switch ($section) {
 	case '/':
 		include_once 'front_page.php';
     break;
+	
+	case '/login':
+		include_once 'login.php';
+		break;
+	
+	case '/logout':
+		include_once 'logout.php';
+		break;
 
   // INICIO DE SESIÓN
   default:
