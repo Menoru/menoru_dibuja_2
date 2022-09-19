@@ -1,4 +1,20 @@
-<?php include_once 'header.php'; ?>
+<?php
+require_once 'admin_header.php';
+require_once '../lib/class_portfolio.php';
+
+if (empty($_GET['page'])) {
+	$page = 1;
+}
+else {
+	$page = $_GET['page'];
+}
+
+$portfolio = new portfolio;
+
+$portfolio_images = $portfolio -> portfolioListPagination($connect, $page, $_SESSION['images_per_page']);
+
+include_once 'header.php';
+?>
 
 <div class="row">
 	<?php include_once 'admin_aside.php'; ?>
@@ -32,49 +48,36 @@
 						<th>FAVORITOS</th>
 					</thead>
 					<tbody>
-						<tr>
-						<td><a href="" title="Ver imagen"><span class="fas fa-eye"></span></a></td>
-							<td><a href="" title="Editar imagen"><span class="fas fa-pencil-alt"></span></a></td>
-							<td><a href="" title="Eliminar imagen"><span class="fas fa-eraser"></span></a></td>
-							<td>1</td>
-							<td><img src="" alt="imagen-1"></td>
-							<td>Imagen 1</td>
-							<td>JPEG</td>
-							<td>2.58MB</td>
-							<td>2550</td>
-							<td>3300</td>
-							<td>d0f4ee4532efadbc876522a2b2ee2ff22d242115f1</td>
-							<td>d0</td>
-							<td>Manuel</td>
-							<td>Categoría 1, Categoría 2</td>
-							<td>Etiqueta 1, Etiqueta 2</td>
-							<td>2022-08-22</td>
-							<td>NO</td>
-							<td>55</td>
-							<td>9</td>
-						</tr>
-
-						<tr>
-						<td><a href="" title="Ver entradaimagen><span class="fas fa-eye"></span></a></td>
-							<td><a href="" title="Editar imagen"><span class="fas fa-pencil-alt"></span></a></td>
-							<td><a href="" title="Eliminar imagen"><span class="fas fa-eraser"></span></a></td>
-							<td>2</td>
-							<td><img src="" alt="imagen-2"></td>
-							<td>Imagen 2</td>
-							<td>JPEG</td>
-							<td>5.62MB</td>
-							<td>3300</td>
-							<td>5100</td>
-							<td>d0f4ee4532efadbc876522a2b2ee2ff22d242115f1</td>
-							<td>d0</td>
-							<td>Manuel</td>
-							<td>Categoría 1, Categoría 2</td>
-							<td>Etiqueta 1, Etiqueta 2</td>
-							<td>2022-08-22</td>
-							<td>NO</td>
-							<td>55</td>
-							<td>9</td>
-						</tr>
+						<?php
+						if (isset($portfolio_images)) {
+							foreach ($portfolio_images as $image) {
+						echo '<tr>
+							<td><a href="/portfolio/'.$image['id_img'].'" title="Ver imagen"><span class="fas fa-eye"></span></a></td>
+							<td><a href="/admin/portfolio.php?id_img='.$image['id_img'].'&action=edit" title="Editar imagen"><span class="fas fa-pencil-alt"></span></a></td>
+							<td><a href="/admin/portfolio.php?id_img='.$image['id_img'].'&action=delete" title="Eliminar imagen"><span class="fas fa-eraser"></span></a></td>
+							<td>'.$image['id_img'].'</td>
+							<td><img src="'.$image['directory'].'" alt="'.$image['name'].'"></td>
+							<td>'.$image['name'].'</td>
+							<td>'.$image['type'].'</td>
+							<td>'.$image['size'].'</td>
+							<td>'.$image['width'].'</td>
+							<td>'.$image['height'].'</td>
+							<td>'.$image['hash'].'</td>
+							<td>'.$image['directory'].'</td>
+							<td>'.$image['user'].'</td>
+							<td></td>
+							<td></td>
+							<td>'.$image['date'].'</td>
+							<td>'.$image['restricted'].'</td>
+							<td>'.$image['views'].'</td>
+							<td>'.$image['favorites'].'</td>
+						</tr>';
+							}
+						}
+						else{
+							echo '<tr><td colspan="19"><p>No hay imágenes para mostrar.</p></td></tr>';
+						}
+						?>
 					</tbody>
 				</table>
 			</section>
