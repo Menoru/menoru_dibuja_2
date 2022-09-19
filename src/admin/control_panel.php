@@ -1,4 +1,7 @@
-<?php include_once 'header.php'; ?>
+<?php
+require_once 'admin_header.php';
+include_once 'header.php';
+?>
 
 <!-- MAIN SECTION -->
 <main class="admin-front-page">
