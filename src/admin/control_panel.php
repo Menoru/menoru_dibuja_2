@@ -10,6 +10,14 @@ include_once 'header.php';
 		<div class="row justify-content-center">
 			<section class="col-xl-4">
 				<div class="admin-front-page-section">
+					<h3>Archivos</h3>
+					<ul>
+						<li><a href="/admin/upload_file.php">Subir archivo</a></li>
+					</ul>
+				</div>
+			</section>
+			<section class="col-xl-4">
+				<div class="admin-front-page-section">
 					<h3>Estadística</h3>
 					<ul>
 						<li><a href="/admin/statistics.php">Estadística del sitio</a></li>

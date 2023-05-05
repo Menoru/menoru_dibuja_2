@@ -9,10 +9,9 @@ define('BD_PASS','0st3yj49xt');
 define('BD_NAME','menoruco_dibuja_2');
 
 $connect = new mysqli(BD_HOST, BD_USR, BD_PASS, BD_NAME);
-if(!$connect){
-	echo 'Error: No se pudo conectar a MySQL.'.PHP_EOL;
-	echo 'errno de depuración: '.mysqli_connect_errno().PHP_EOL;
-	echo 'error de depuración: '.mysqli_connect_error().PHP_EOL;
+
+if ($connect -> connect_errno) {
+	echo 'Fallo al conectar a MySQL: ('.$connect -> connect_errno.') '.$mysqli -> connect_error;
 	exit;
 }
 mysqli_query($connect,'SET NAMES "utf8"');

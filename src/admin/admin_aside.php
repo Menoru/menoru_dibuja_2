@@ -2,6 +2,7 @@
 	<section>
 		<ul>
 			<li><a href="/admin/control_panel.php">Panel de control</a></li>
+			<li><a href="/admin/upload_file.php">Subir archivo</a></li>
 		</ul>
 	</section>
 

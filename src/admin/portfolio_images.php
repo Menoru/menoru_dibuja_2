@@ -24,7 +24,7 @@ include_once 'header.php';
 				<h2>Imágenes del portafolio</h2>
 			</div>
 		</header>
-	
+
 		<article class="row justify-content-center">
 			<section class="col-12 control-panel-section">
 				<table class="control-panel-table">
