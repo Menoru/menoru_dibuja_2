@@ -56,6 +56,10 @@ switch ($section) {
 		include_once 'logout.php';
 		break;
 
+	case '/adm':
+		include_once 'admin_control_panel.php';
+		break;
+
   // INICIO DE SESIÓN
   default:
     include_once 'site/404.php';

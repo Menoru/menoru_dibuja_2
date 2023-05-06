@@ -43,17 +43,17 @@ if (isset($_POST['login'])) {
       session_start();
 
       //Establecen las variables superglobales para sesion.
-      $_SESSION['id_usr'] = $usr_id;
-      $_SESSION['name'] = $usr_name;
-      $_SESSION['type'] = $usr_type;
-      $_SESSION['signup_date'] = $usr_signup_date;
-			$_SESSION['last_login'] = $usr_last_login;
-			$_SESSION['visits'] = $usr_visits;
-			$_SESSION['images'] = $usr_images;
-			$_SESSION['images_per_page'] = $usr_images_per_page;
-			$_SESSION['comments'] = $usr_comments;
-			$_SESSION['favorites'] = $usr_favorites;
-			$_SESSION['avatar'] = $usr_avatar;
+      $_SESSION['usr_id'] = $usr_id;
+      $_SESSION['usr_name'] = $usr_name;
+      $_SESSION['usr_type'] = $usr_type;
+      $_SESSION['usr_signup_date'] = $usr_signup_date;
+			$_SESSION['usr_last_login'] = $usr_last_login;
+			$_SESSION['usr_visits'] = $usr_visits;
+			$_SESSION['usr_images'] = $usr_images;
+			$_SESSION['usr_images_per_page'] = $usr_images_per_page;
+			$_SESSION['usr_comments'] = $usr_comments;
+			$_SESSION['usr_favorites'] = $usr_favorites;
+			$_SESSION['usr_avatar'] = $usr_avatar;
 
       // Destrucción de variables $usr_password.
       unset($usr_password);
