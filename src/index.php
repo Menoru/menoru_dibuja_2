@@ -44,11 +44,31 @@ $_SESSION['section'] = $section;
 if (empty($_SESSION['user_type'])) { $_SESSION['user_type'] = 'Anónimo'; }
 
 switch ($section) {
+	/* GENERAL */
+	
 	case '/':
 		include_once 'front_page.php';
-    break;
+		break;
 	
-	case '/login':
+	case '/gallery':
+		include_once 'site_gallery.php';
+		break;
+	
+/* 	case '/categories':
+		include_once 'site_categories.php';
+		break;
+	
+	case '/tags':
+		include_once 'site_tags.php';
+		break;
+	
+	case '/blog':
+		include_once 'site_blog.php';
+		break; */
+	
+	/* CONTROL DE SESION */
+	
+		case '/login':
 		include_once 'login.php';
 		break;
 	
@@ -56,13 +76,67 @@ switch ($section) {
 		include_once 'logout.php';
 		break;
 
+	/* PANEL DE CONTROL */
+
 	case '/adm':
 		include_once 'admin_control_panel.php';
 		break;
 
-  // INICIO DE SESIÓN
-  default:
-    include_once 'site/404.php';
-    break;
+	case '/adm/upload-file':
+		include_once 'admin_upload_file.php';
+		break;
+
+	case '/adm/statistics':
+		include_once 'admin_statistics.php';
+		break;
+
+	case '/adm/blog-posts':
+		include_once 'admin_blog_posts.php';
+		break;
+
+	case '/adm/blog-categories':
+		include_once 'admin_blog_categories.php';
+		break;
+
+	case '/adm/blog-tags':
+		include_once 'admin_blog_tags.php';
+		break;
+
+	case '/adm/portfolio-images':
+		include_once 'admin_portfolio_images.php';
+		break;
+
+	case '/adm/portfolio-categories':
+		include_once 'admin_portfolio_categories.php';
+		break;
+
+	case '/adm/portfolio-tags':
+		include_once 'admin_portfolio_tags.php';
+		break;
+
+	case '/adm/multimedia':
+		include_once 'admin_multimedia.php';
+		break;
+
+	case '/adm/config':
+		include_once 'admin_config.php';
+		break;
+
+	case '/adm/users':
+		include_once 'admin_users.php';
+		break;
+
+	case '/adm/backups':
+		include_once 'admin_backups.php';
+		break;
+
+	case '/adm/help':
+		include_once 'admin_help.php';
+		break;
+
+	// INICIO DE SESIÓN
+	default:
+		include_once 'site_404.php';
+		break;
 }
 ?>

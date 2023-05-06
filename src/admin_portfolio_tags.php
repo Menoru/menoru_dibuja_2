@@ -1,4 +1,4 @@
-<?php include_once 'header.php'; ?>
+<?php include_once 'admin_header.php'; ?>
 
 <div class="row">
 	<?php include_once 'admin_aside.php'; ?>
@@ -57,4 +57,4 @@
 	</main>
 </div>
 
-<?php include_once 'footer.php'; ?>
+<?php include_once 'admin_footer.php'; ?>

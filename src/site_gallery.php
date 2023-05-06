@@ -1,6 +1,6 @@
 <?php
-include_once 'header.php';
-include_once 'menu.php';
+include_once 'site_header.php';
+include_once 'site_menu.php';
 ?>
 
 <!-- SIDEBAR -->
@@ -28,4 +28,4 @@ include_once 'menu.php';
 
 </main>
 
-<?php include_once 'footer.php'; ?>
+<?php include_once 'site_footer.php'; ?>

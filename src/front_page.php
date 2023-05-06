@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Menoru dibuja</title>
 	<link rel="stylesheet" href="/css/fontawesome.css">
-	<link rel="stylesheet" media="all" href="/css/styles.css">
+	<link rel="stylesheet" media="all" href="/css/site_styles.css">
 </head>
 <body>
 	<div class="front-page-wrapper">

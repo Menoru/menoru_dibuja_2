@@ -1,3 +1,5 @@
+<?php if (!isset($_SESSION['usr_type']) === 'Administrador') { header('location: /'); } ?>
+
 <!DOCTYPE html>
 <html lang="es-MX">
 
@@ -7,7 +9,7 @@
 	<title>Menoru dibuja - Panel de control</title>
 	<link rel="stylesheet" media="all" href="/css/bootstrap.min.css">
 	<link rel="stylesheet" media="all" href="/css/fontawesome.css">
-	<link rel="stylesheet" media="all" href="/admin/css/styles.css">
+	<link rel="stylesheet" media="all" href="/css/admin_styles.css">
 </head>
 
 <body>

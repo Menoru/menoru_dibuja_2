@@ -59,7 +59,7 @@ if (isset($_POST['login'])) {
       unset($usr_password);
 
 			if ($usr_type != 'Administrador') {header('location: /');}
-			else {header('location: /admin/control_panel.php');}
+			else {header('location: /adm');}
     }
     else {
       //En caso que la contraseña sea incorrecta se envía el mensaje "¡Contraseña incorrecta!" y redirecciona a login.

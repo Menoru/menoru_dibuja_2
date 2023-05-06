@@ -1,50 +1,50 @@
 <aside class="col-xl-2 admin-aside">
 	<section>
 		<ul>
-			<li><a href="/admin/control_panel.php">Panel de control</a></li>
-			<li><a href="/admin/upload_file.php">Subir archivo</a></li>
+			<li><a href="/adm">Panel de control</a></li>
+			<li><a href="/adm/upload-file">Subir archivo</a></li>
 		</ul>
 	</section>
 
 	<section>
 		<h3>Estadística</h3>
 		<ul>
-			<li><a href="/admin/statistics.php">Estadística del sitio</a></li>
+			<li><a href="/adm/statistics">Estadística del sitio</a></li>
 		</ul>
 	</section>
 
 	<section>
 		<h3>Blog</h3>
 		<ul>
-			<li><a href="/admin/blog_posts.php">Entradas</a></li>
-			<li><a href="/admin/blog_categories.php">Categorías</a></li>
-			<li><a href="/admin/blog_tags.php">Etiquetas</a></li>
+			<li><a href="/adm/blog-posts">Entradas</a></li>
+			<li><a href="/adm/blog-categories">Categorías</a></li>
+			<li><a href="/adm/blog-tags">Etiquetas</a></li>
 		</ul>
 	</section>
 	
 	<section>
 		<h3>Portafolio</h3>
 		<ul>
-			<li><a href="/admin/portfolio_images.php">Imágenes</a></li>
-			<li><a href="/admin/portfolio_categories.php">Categorías</a></li>
-			<li><a href="/admin/portfolio_tags.php">Etiquetas</a></li>
+			<li><a href="/adm/portfolio-images">Imágenes</a></li>
+			<li><a href="/adm/portfolio-categories">Categorías</a></li>
+			<li><a href="/adm/portfolio-tags">Etiquetas</a></li>
 		</ul>
 	</section>
 
 	<section>
 		<h3>Multimedia</h3>
 		<ul>
-			<li><a href="/admin/multimedia.php">Multimedia</a></li>
+			<li><a href="/adm/multimedia">Multimedia</a></li>
 		</ul>
 	</section>
 	
 	<section>
 		<h3>Configuración</h3>
 		<ul>
-			<li><a href="/admin/config.php">Configuración</a></li>
-			<li><a href="/admin/users.php">Usuarios</a></li>
-			<li><a href="/admin/backups.php">Respaldos</a></li>
-			<li><a href="/admin/help.php">Ayuda</a></li>
+			<li><a href="/adm/config">Configuración</a></li>
+			<li><a href="/adm/users">Usuarios</a></li>
+			<li><a href="/adm/backups">Respaldos</a></li>
+			<li><a href="/adm/help">Ayuda</a></li>
 		</ul>
 	</section>
 </aside>

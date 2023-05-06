@@ -1,6 +1,5 @@
 <?php
-require_once 'admin_header.php';
-require_once '../lib/class_portfolio.php';
+require_once 'lib/class_portfolio.php';
 
 if (empty($_GET['page'])) {
 	$page = 1;
@@ -11,9 +10,9 @@ else {
 
 $portfolio = new portfolio;
 
-$portfolio_images = $portfolio -> portfolioListPagination($connect, $page, $_SESSION['images_per_page']);
+$portfolio_images = $portfolio -> portfolioListPagination($connect, $page, $_SESSION['usr_images_per_page']);
 
-include_once 'header.php';
+include_once 'admin_header.php';
 ?>
 
 <div class="row">
@@ -85,4 +84,4 @@ include_once 'header.php';
 	</main>
 </div>
 
-<?php include_once 'footer.php'; ?>
+<?php include_once 'admin_footer.php'; ?>

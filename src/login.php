@@ -7,7 +7,7 @@
 	<title>Menoru dibuja - Login</title>
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/css/fontawesome.css">
-	<link rel="stylesheet" href="/css/styles.css">
+	<link rel="stylesheet" href="/css/site_styles.css">
 </head>
 <body>
 	<header class="page-header">
