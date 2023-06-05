@@ -45,8 +45,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {font-size: 2rem;}
-h2 {font-size: 1.5rem;}
-h3 {font-size: 1.25rem;}
+h2 {font-size: 1.8rem;}
+h3 {font-size: 1.6rem;}
+h4 {font-size: 1.4rem;}
+h5 {font-size: 1.2rem;}
+h6 {font-size: 1rem;}
 
 a {
 	color: #BA2C73;
@@ -62,13 +65,15 @@ input[type='text'],
 input[type='password'],
 input[type='number'],
 input[type='date'],
+input[type='time'],
 input[type='email'],
 input[type='file'],
 select {
+	background-color: #FFF;
 	border: 1px solid #BA2C73;
 	border-radius: 5px;
 	color: #BA2C73;
-	background-color: #FFF;
+	margin: .5em;
 	padding: .25em;
 	width: 100%;
 }
@@ -136,9 +141,7 @@ input[type='submit'], button {
 	background-color: #BA2C73;
 }
 
-.admin-front-page ul li a:hover {
-	background-color: #BA2C73;
-}
+.admin-front-page ul li a:hover { background-color: #BA2C73; }
 
 .admin-front-page-section {
 	padding: .5em;
@@ -149,11 +152,11 @@ input[type='submit'], button {
 }
 
 /* MENÚ */
-.admin-aside section {
-	margin-bottom: 1em;
-	/* border-bottom: 1px solid #592E83; */
-	padding-bottom: .5em;
-}
+.admin-aside { background-color: #02315E; }
+
+.admin-aside h5 { color: #FFF; }
+
+.admin-aside section { margin-bottom: 1em; }
 
 .admin-aside ul{
 	list-style: none;
@@ -161,21 +164,29 @@ input[type='submit'], button {
 	padding: 0;
 }
 
-/* ESTILOS GENERALES PARA LAS SECCIONES DEL PANEL DE CONTROL. */
-.control-panel-title h2 {
-	text-align: center;
+@media screen and (min-width: 992px) {
+	.admin-aside { height: 100vh; }
 }
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.admin-aside {
+		height: auto;
+		padding: 1em;
+	}
+
+	.admin-aside section {
+		display: inline-block;
+		width: 30%;
+	}
+}
+
+/* ESTILOS GENERALES PARA LAS SECCIONES DEL PANEL DE CONTROL. */
+.control-panel-title h2 { text-align: center; }
 
 .control-panel-section {
 	min-height: 8em;
-	border: 1px solid #00457E;
-	border-radius: 5px;
 	margin: 1em 0;
-	padding: .25em;
-}
-
-.control-panel-section h3 {
-	text-align: center;
+	padding: .5em;
 }
 
 .control-panel-table {
@@ -194,9 +205,7 @@ input[type='submit'], button {
 	background-color: #c7daec;
 }
 
-.control-panel-table tr:nth-of-type(2n+2) {
-	background-color:#fff;
-}
+.control-panel-table tr:nth-of-type(even) { background-color:#fff; }
 
 .control-panel-table td {
 	font-size: .8rem;
@@ -210,12 +219,13 @@ input[type='submit'], button {
 	text-align: center;
 }
 
-.control-panel-buttons-bar li {
-	display: inline-block;
-}
+.control-panel-buttons-bar li { display: inline-block; }
 
 .control-panel-buttons-bar li a {
-	
+	background-color: #BA2C73;
+	border-radius: 5px;
+	color: #FFF;
+	padding: .25em;
 }
 
 .form-field {
@@ -223,6 +233,4 @@ input[type='submit'], button {
 	margin-bottom: 1em;
 }
 
-.form-field:nth-last-of-type(1) {
-	margin-bottom: 0;
-}
+.form-field:nth-last-of-type(odd) { margin-bottom: 0; }

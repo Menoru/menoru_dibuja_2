@@ -94,6 +94,10 @@ switch ($section) {
 		include_once 'admin_blog_posts.php';
 		break;
 
+	case '/adm/blog-post-new':
+		include_once 'admin_blog_post_new.php';
+		break;
+
 	case '/adm/blog-categories':
 		include_once 'admin_blog_categories.php';
 		break;
